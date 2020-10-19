@@ -3,7 +3,7 @@ body {
   background-size: cover;
   background-color: #666666;
   font-size: 1;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat, sans-serif;
   font-weight: 400;
 }
 
@@ -17,6 +17,10 @@ main, header, footer {
 
 footer {
   paddin-top: 3rem;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
@@ -40,4 +44,8 @@ h1 {
   color: #efefef;
   background-color: #666666;
   margin-bottom: 0.2;
+}
+
+.footer {
+
 }
