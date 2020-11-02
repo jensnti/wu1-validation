@@ -64,3 +64,18 @@ https://wave.webaim.org/extension/
 * Kontrollera sidstruktur.
 * Kontrollera kontraster.
 
+# Bedömning
+
+**Syfte**
+Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet.
+
+Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.
+
+**E**
+Produkten är av tillfredsställande kvalitet och följer etablerad god praxis vilket eleven kontrollerar med begränsade tester. Eleven testar produkten i någon webbläsare. Eleven testar också produkten på någon plattform och vidtar begränsade åtgärder för att åstadkomma snabb överföring av bilder eller andra mediafiler. Dessutom bygger eleven en webbplats som med tillfredsställande resultat följer grundläggande principer för tillgänglighet.
+
+**C**
+Produkten är av tillfredsställande kvalitet och följer etablerad god praxis vilket eleven kontrollerar med automatiserade tester. Eleven testar produkten i några webbläsare. Eleven testar också produkten på några plattformar inklusive traditionella datorer eller mobila enheter och vidtar åtgärder för att åstadkomma snabb överföring av bilder och andra mediafiler. Dessutom bygger eleven en webbplats som med tillfredsställande resultat följer grundläggande principer för tillgänglighet och kontrollerar detta med några automatiserade tester.
+
+**A**
+Produkten är av god kvalitet och följer etablerad god praxis vilket eleven kontrollerar med omfattande automatiserade och manuella tester. Eleven testar produkten i flera webbläsare. Eleven testar också produkten på flera plattformar inklusive traditionella datorer och mobila enheter, vidtar omfattande åtgärder samt optimerar bilder eller andra mediafiler för att åstadkomma snabb överföring av dessa och för att reducera antalet överföringar per sida. Dessutom bygger eleven en webbplats som med gott resultat följer grundläggande principer för tillgänglighet och kontrollerar detta med automatiserade tester och simuleringar.
