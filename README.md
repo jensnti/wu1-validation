@@ -66,7 +66,7 @@ https://wave.webaim.org/extension/
 
 # Bedömning
 
-**Syfte**
+## Syfte
 Förmåga att bygga webbplatser och webbapplikationer enligt standarder och riktlinjer för god praxis samt med god tillgänglighet.
 
 Kvalitetssäkring av applikationens funktion och validering av kodens kvalitet.
