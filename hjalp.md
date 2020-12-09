@@ -19,6 +19,9 @@ Det finns även ett antal användbarhets-problem att rätta till.
 
 ### Instruktioner
 
-Kolla här, i det jag skrev tidigare.
+Du ska jobba med sidan html.html den här gången.
+
+Titta på filmerna om du behöver hjälp med valideringen.
+Läs tidigare instruktioner här.
 
 https://github.com/jensnti/wu1-validation/blob/main/README.md

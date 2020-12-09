@@ -7,6 +7,8 @@ att du rättar till fel så att sidan validerar korrekt och fungerar korrekt.
 I nuläget så fungerar inte bilderna och sidans formattering är konstig.
 Det finns även ett antal användbarhets-problem att rätta till.
 
+**För kompletterande uppgift se följande fil**
+
 ## Repository
 
 Din kollega önskar att du commitar varje enskilt issue i ditt arbete med GitHub repot.
