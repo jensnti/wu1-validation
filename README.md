@@ -9,6 +9,8 @@ Det finns även ett antal användbarhets-problem att rätta till.
 
 **För kompletterande uppgift se följande fil**
 
+https://github.com/jensnti/wu1-validation/blob/main/hjalp.md
+
 ## Repository
 
 Din kollega önskar att du commitar varje enskilt issue i ditt arbete med GitHub repot.
